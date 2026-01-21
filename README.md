@@ -11,7 +11,7 @@ The TTC calculation script is taken from: [https://github.com/Yiru-Jiao/Two-Dime
 
 The project contains the following folders:
 **data_preprocessing** for data preprocssing.
-**models/v2** for creating the different depp learning models, for training, loading, evaluating and analysis of results.
+**models/v2** for creating the deep learning models, for training, loading, evaluating and analysis of results.
 
 ## The Project's Abstract
 Vulnerable road users and vehicle conflicts are a major cause of fatalities in urban areas, underscoring the need to improve advanced driver assistance systems (ADAS) and autonomous vehicles behavior in this field. This work addresses the challenge of predicting pedestrian motion in naturalistic urban environment, focusing on edge conflict situations, which is a critical task in safety systems. 
